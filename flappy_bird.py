@@ -135,7 +135,7 @@ class Pipe():
     represents a pipe object
     """
     GAP = 200
-    VEL = 5
+    VEL = 20
 
     def __init__(self, x):
         """
