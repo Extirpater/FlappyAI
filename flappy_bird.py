@@ -210,7 +210,7 @@ class Base:
     """
     Represnts the moving floor of the game
     """
-    VEL = 5
+    VEL = 10
     WIDTH = base_img.get_width()
     IMG = base_img
 
